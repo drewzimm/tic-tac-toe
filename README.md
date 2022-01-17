@@ -1,3 +1,3 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 
-An implementation of the game Tic-Tac-Toe using vanilla HTML, CSS, and JavaScript. 
+An implementation of the classic game using vanilla HTML, CSS, and JavaScript. 
